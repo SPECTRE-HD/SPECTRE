@@ -1,0 +1,6 @@
+PS C:\github\SPECTRE> git init
+PS C:\github\SPECTRE> git remote add origin https://github.com/SPECTRE-HD/SPECTRE.git
+PS C:\github\SPECTRE> git branch -M main
+PS C:\github\SPECTRE> git add .
+PS C:\github\SPECTRE> git commit -m "initial commit"
+PS C:\github\SPECTRE> git push origin main
